@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Don Corleone's Olive Oil",
+    "description": "Premium olive oil from the Corleone family's import business, as seen in The Godfather.",
+    "price": 25.99,
+    "category": "Gourmet Foods"
+  },
+  {
+    "id": 2,
+    "name": "Luca Brasi's Sleepwear",
+    "description": "A comfy sleepwear collection, an ironic nod to Luca Brasi's famous 'sleeps with the fishes' scene.",
+    "price": 59.99,
+    "category": "Apparel"
+  },
+  {
+    "id": 3,
+    "name": "Tessio's Cannoli Kit",
+    "description": "A DIY cannoli kit inspired by Clemenza's line, 'Leave the gun. Take the cannoli.'",
+    "price": 22.99,
+    "category": "Dessert Kits"
+  },
+  {
+    "id": 4,
+    "name": "Vito's Vintage Fedora",
+    "description": "Replica of the fedora worn by Vito Corleone, ideal for cosplay or as a collector's item.",
+    "price": 99.99,
+    "category": "Accessories"
+  },
+  {
+    "id": 5,
+    "name": "Michael's Sicilian Villa Wine",
+    "description": "A fine wine selection from the Sicilian vineyards seen in Michael Corleone's exile.",
+    "price": 45.99,
+    "category": "Beverages"
+  },
+  {
+    "id": 6,
+    "name": "Sonny's Revenge Punching Bag",
+    "description": "A durable punching bag, a tribute to Sonny Corleone's fiery temperament.",
+    "price": 120.99,
+    "category": "Fitness"
+  },
+  {
+    "id": 7,
+    "name": "The Godfather Script",
+    "description": "A leather-bound copy of the original movie script, with notes from the director.",
+    "price": 200.00,
+    "category": "Memorabilia"
+  },
+  {
+    "id": 8,
+    "name": "Tom Hagen Legal Services",
+    "description": "Legal consultation services inspired by the Corleone family consigliere.",
+    "price": 300.00,
+    "category": "Services"
+  },
+  {
+    "id": 9,
+    "name": "Connie's Wedding Album",
+    "description": "A custom wedding album design service, inspired by Connie Corleone's lavish wedding.",
+    "price": 150.99,
+    "category": "Wedding"
+  },
+  {
+    "id": 10,
+    "name": "Fredo's Fishing Tours",
+    "description": "A guided fishing tour experience, reminiscent of Fredo Corleone's last outing.",
+    "price": 400.00,
+    "category": "Experiences"
+  }
+]
