@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-
+const db = require("./models");
 const app  = express ();
 
 var corsOptions = {
@@ -23,7 +23,7 @@ app.get("/", (req, res) => {
   res.json({ message: "Welcome to CNAM application." });
 });
 
-const db = require("./models");
+
 
 db.sequelize.sync()
   .then(() => {
